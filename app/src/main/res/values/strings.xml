@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">19631020_Muhammad Aminudin</string>
+    <string name="batal">batal</string>
+    <string name="simpan">simpan</string>
+    <string name="nama">Nama</string>
+    <string name="isi_nama_lengkap">Isi Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="isi_email">Isi Email</string>
+    <string name="phone">Phone</string>
+    <string name="isi_nomor">Isi Nomor</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="isi_tanggal_lahir">Isi Tanggal Lahir</string>
+    <string name="jumlah_sks">Jumlah SKS</string>
+    <string name="isi_jumlah_sks_keseluruhan">Isi Jumlah SKS keseluruhan</string>
+    <string name="logo">logo</string>
+    <string name="aplikasi_android">Aplikasi Android</string>
+</resources>
